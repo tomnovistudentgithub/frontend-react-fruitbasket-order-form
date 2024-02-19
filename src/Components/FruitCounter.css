@@ -1,14 +1,8 @@
-h1 {
-    text-align: center;
-    margin: 20px;
-}
-
 .fruit-component-outer {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-
 }
 
 .fruit-component {
@@ -17,8 +11,8 @@ h1 {
     flex-basis: 400px;
     align-items: center;
 
-    margin: 20px;
-    padding: 20px;
+    margin: 15px;
+    padding: 15px;
     border: 1px solid #666;
     border-radius: 10px;
 

@@ -1,5 +1,5 @@
 export const formLabels = {
-    firstName: 'First Name:',
+    firstName: 'First Name',
     lastName: 'Last Name',
     age: 'Age',
     postalCode: 'Postal Code',
